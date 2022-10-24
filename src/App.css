@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Roboto;
+}
+ 
+ body {
+  color: white;
+  background-color: #242424;
+}
+
+a {
+ text-decoration: none;
+ transition: 0.5;
+}
+
+.Title {
+  margin-top: 1rem;
+  text-align: center;
+  color: #af84c2;
+}

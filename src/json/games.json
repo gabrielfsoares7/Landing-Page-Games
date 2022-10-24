@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "League of Legends",
+    "date": "27 de Outubro de 2009",
+    "description": "League of Legends abreviado como LoL e comumente referido como League é um jogo eletrônico do gênero multiplayer online battle arena (MOBA) desenvolvido e publicado pela Riot Games. Foi lançado em outubro de 2009 para Microsoft Windows e em março de 2013 para macOS. Inspirado em Defense of the Ancients (DotA), uma modificação de Warcraft III, os fundadores da Riot buscaram desenvolver um jogo autônomo do mesmo gênero. Desde o seu lançamento, o título é gratuito para jogar e monetizado por meio de personalização de personagens, a qual é obtenível através de uma moeda virtual comprável com dinheiro real.No jogo, duas equipes de cinco jogadores batalham em um combate jogador contra jogador (PvP), com cada equipe ocupando e defendendo sua metade do mapa. Cada um dos dez jogadores controla um personagem, conhecido como campeão, com habilidades únicas e diferentes estilos de jogo. Durante uma partida, os campeões se tornam mais poderosos ao coletarem pontos de experiência, ganharem ouro e comprarem itens a fim de derrotar a equipe adversária. No modo principal, Summoner's Rift, o objetivo primário é avançar até a base inimiga e destruir uma grande estrutura localizada em seu centro, sob o nome de Nexus.",
+    "cover": "game-1.png",
+    "video": "https://www.youtube.com/watch?v=mDYqT0_9VR4&t=1s&ab_channel=LeagueofLegends"
+  },
+  {
+    "id": 2,
+    "title": "Teamfight Tactics",
+    "date": "26 de junho de 2019",
+    "description": "O Teamfight Tactics (abreviado como TFT) é um jogo gratuito de estratégia e auto chess desenvolvido e publicado pela Riot Games. O jogo se passa no universo de League of Legends e é baseado no Dota Auto Chess, onde os jogadores competem online contra outros sete adversários, construindo uma equipe para ser a última em pé. O jogo foi lançado como um modo de jogo de League of Legends para Microsoft Windows e macOS em junho de 2019 e como um jogo independente para Android e iOS em março de 2020, apresentando o cross-play entre as plataformas.",
+    "cover": "game-2.png",
+    "video": "https://www.youtube.com/watch?v=_XbhPF2jTC0&ab_channel=LeagueofLegendsBrasil"
+  },
+  {
+    "id": 3,
+    "title": "Counter Strike GO",
+    "date": "21 de Agosto de 2012",
+    "description": "Counter-Strike: Global Offensive (CS:GO) é um jogo online desenvolvido pela Valve Corporation e pela Hidden Path Entertainment, sendo uma sequência de Counter-Strike: Source. É o quarto título principal da franquia.Foi lançado no dia 21 de agosto de 2012 para as plataformas Windows e Mac OS X no Steam, Xbox 360 (por meio da Xbox Live Arcade), e uma versão exclusiva para os EUA para PlayStation 3 (por meio da PlayStation Network). A versão de Linux foi lançada em setembro de 2014 (com suporte para o sistema Ubuntu a partir da versão 12.05). O jogo conta com conteúdo clássico de tiro, como versões retrabalhadas de mapas clássicos, bem como novos mapas, personagens e modos de jogo.[2] O sistema multiplayer multi-plataformas foi planejado entre jogadores de Windows, OS X, Linux e PSN, mas acabou excluindo o PSN por causa das diferenças na frequência de atualização dos sistemas. A versão da PSN oferece três formas de controles, que inclui DualShock 3, PlayStation Move",
+    "cover": "game-3.png",
+    "video": "https://www.youtube.com/watch?v=edYCtaNueQY&ab_channel=Valve"
+  },
+  {
+    "id": 4,
+    "title": "World Warcraft",
+    "date": "23 de Novembro de 2004",
+    "description": "O World of Warcraft, também conhecido como WoW, é um MMORPG, para Windows e Mac, lançado pela Blizzard em 2004. O game é focado em aventura e ação e totalmente inspirado pelos antigos jogos da saga de estratégia Warcraft, que também fizeram fama nos computadores por um bom tempo. Ele é bem completo para seu gênero e oferece muito conteúdo, por isso aproveite para fazer o download de World of Warcraft agora mesmo.Para jogar é preciso comprar ao menos o jogo base, isto é, sem as expansões. Depois, é necessário pagar uma taxa mensal que permite continuar jogando após os primeiros 30 dias. Apesar de requerer assinatura, o título é considerado o RPG online mais assinado no mundo, segundo o livro dos recordes.Apesar da cobrança, vale o aviso: é possível jogá-lo de graça, ainda que de forma limitada. Dessa forma, seu personagem nunca avança além do nível 20, além de algumas pequenas restrições adicionais. Porém, não será preciso gastar nem um centavo para se divertir neste mundo repleto de possibilidades.",
+    "cover": "game-4.png",
+    "video": "https://www.youtube.com/watch?v=G7QZR2OWLR0&ab_channel=WorldofWarcraftBrasil"
+  },
+  {
+    "id": 5,
+    "title": "Fortnite",
+    "date": "26 de Setembro de 2017",
+    "description": "Fortnite é um jogo eletrônico multijogador online revelado originalmente em 2011, desenvolvido pela Epic Games e lançado como diferentes modos de jogo que compartilham a mesma jogabilidade e motor gráfico de jogo. Os modos de jogo incluem Fortnite: Save the World, um jogo cooperativo pay-to-play de sobrevivência para até quatro jogadores, que devem lutar contra carcaças (zumbis) e defender objetos com fortificações que eles podem construir, e Fortnite Battle Royale, um jogo free-to-play do gênero battle royale, onde até 100 jogadores lutam em espaços cada vez menores para serem a última pessoa ou time vencedor. Ambos os modos de jogo foram lançados em 2017 como títulos de acesso antecipado; Save the World está disponível apenas para Microsoft Windows, PlayStation 4 e Xbox One, enquanto Battle Royale foi lançado para essas mesmas plataformas, incluindo o Nintendo Switch e dispositivos Android. Em 2020, foi adicionado para a nova geração de consoles PlayStation 5 e Xbox Series X/S.",
+    "cover": "game-5.png",
+    "video": "https://www.youtube.com/watch?v=BJ6-q__4miw&ab_channel=FortniteBrasil"
+  },
+  {
+    "id": 6,
+    "title": "Genshin Impact",
+    "date": "28 de setembro de 2020",
+    "description": "Genshin Impact é um jogo eletrônico RPG de ação gratuito desenvolvido e publicado pela miHoYo.[3][4] O jogo apresenta um ambiente de mundo aberto de fantasia e sistema de batalha baseado em ação usando Pontos de energia elemental e troca de personagem, e usa a monetização de jogo gacha para os jogadores obterem novos personagens, armas e outros recursos.[5][6] O jogo é apenas online e apresenta um modo multiplayer limitado que permite até quatro jogadores jogarem juntos.[7] Foi lançado para Microsoft Windows, PlayStation 4, Android e iOS em 28 de setembro de 2020.[8] O Genshin Impact também está planejado para lançamento no Nintendo Switch e PlayStation 5; a compatibilidade da edição de PlayStation 4 para de PlayStation 5 foi adicionada em 11 de novembro de 2020.",
+    "cover": "game-6.png",
+    "video": "https://www.youtube.com/watch?v=jEp9yyhwZFE&ab_channel=PlayStation"
+  },
+  {
+    "id": 7,
+    "title": "Valorant",
+    "date": "2 de junho de 2020",
+    "description": "Valorant é um jogo eletrônico multijogador gratuito para jogar de tiro em primeira pessoa desenvolvido e publicado pela Riot Games. É o primeiro jogo do gênero desenvolvido pela empresa,[2] sendo anunciado pela primeira vez com o codinome Project A em outubro de 2019, em um evento de comemoração de 10 anos de League of Legends.[3] Foi lançado em 2 de junho de 2020 para Microsoft Windows.Duas equipes de cinco jogam uma contra a outra, e os jogadores assumem o papel de agentes com habilidades únicas. No modo de jogo principal, a equipe atacante tem uma bomba, chamada Spike, que eles precisam plantar em um local. Se a equipe atacante proteger com sucesso a bomba e ela detonar, eles ganharão um ponto. Se a equipe defensora desarmar com sucesso a bomba ou o cronômetro de 100 segundos da rodada expirar, a equipe defensora receberá um ponto. Eliminar todos os membros da equipe adversária também ganha uma rodada. A primeira equipe a vencer o melhor de 24 rodadas vence a partida. O jogo também promove um servidor com tick rate de 128, que garante uma jogabilidade suave e baixo ping com uma expansão global de data centers.",
+    "cover": "game-7.png",
+    "video": "https://www.youtube.com/watch?v=h7MYJghRWt0&ab_channel=VALORANT"
+  },
+  {
+    "id": 8,
+    "title": "Fifa 23",
+    "date": "26 de setembro de 2022",
+    "description": "FIFA 23 é um jogo eletrônico de simulação de futebol desenvolvido pela Electronic Arts. O jogo é o último a utilizar a marca FIFA no nome e foi lançado dia 30 de setembro de 2022, para Xbox Series S/X, Xbox One, PlayStation 5, PlayStation 4 e Microsoft Windows.O jogador Kylian Mbappé, do Paris Saint-Germain, e a jogadora Sam Kerr, do Chelsea, serão os protagonistas. É a primeira vez que uma mulher aparece na capa global do jogo eletrônico.",
+    "cover": "game-8.png",
+    "video": "https://www.youtube.com/watch?v=o3V-GvvzjE4&ab_channel=EASPORTSFIFA"
+  },
+  {
+    "id": 9,
+    "title": "Grand Theft Auto V",
+    "date": "17 de setembro de 2013",
+    "description": "Em Grand Theft Auto V, a Rockstar marca o retorno a Los Santos em um de seus projetos mais ambiciosos graças a uma área de jogo maior que a de Grand theft Auto IV, Red Dead Redemption e Grand Theft Auto: San Andreas juntos e uma campanha com três protagonistas simultâneos.Na pele de Michael (criminoso aposentado que acaba retornando à vida de crimes), Trevor (antigo companheiro de bandidagem de Michael e psicopata) e Franklin (faz-tudo iniciante no crime), os jogadores encontram em Grand Theft Auto V uma trama digna da Rockstar totalmente centrada em assaltos a banco.O game também inova por permitir que cada personagem siga com a sua vida quando o jogador está no controle de seus companheiros. Desse modo, a companhia consegue um nível de imersão totalmente novo ao gênero.",
+    "cover": "game-9.png",
+    "video": "https://www.youtube.com/watch?v=QkkoHAzjnUs&ab_channel=RockstarGames"
+  }
+]
