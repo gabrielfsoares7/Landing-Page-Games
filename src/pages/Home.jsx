@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import GamesCard from '../components/GamesCard';
 import Navbar from '../components/Navbar';
-
+import './Home.css';
 import gamesJSON from '../json/games.json';
 
 function App() {
@@ -37,7 +37,7 @@ function App() {
       <h1 className="Title">Jogos Mais Populares de 2022</h1>
       <div className="container">
         {games.length === 0 ? (
-          <p>Nenhum game encontrado</p>
+          <p className="buscaNaoEncontrada">Nenhum game encontrado</p>
         ) : (
           games.map((game) => (
             <GamesCard id={game.id} name={game.title} cover={game.cover} />

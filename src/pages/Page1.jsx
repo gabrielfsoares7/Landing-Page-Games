@@ -51,7 +51,14 @@ function Page1() {
         </div>
       </div>
       <div className="trailer-video">
-        <iframe width="700" height="380" src={selectedGame?.video}></iframe>
+        <iframe
+          width="700"
+          height="380"
+          src={selectedGame?.video}
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
       </div>
     </div>
   );
